@@ -35,20 +35,16 @@ En resumen, este curso ofrece una oportunidad emocionante para aquellos interesa
   <img src="Imagenes/Read_me/huaylinos.jpg" style="width: 450px;>
   <br>
 </div>
-<strong style="font-size: 18px;">Descripción de la Imagen</strong>
-
 
 Estudiante de último año en Ingeniería Biomédica, con experiencia laboral en análisis de datos dentro del sector sanitario. Mi enfoque principal ha sido la optimización de procesos, con el objetivo de aumentar la eficiencia en centros de salud.
 
 Mi principal motivación para este curso es desarrollar algoritmos automatizados que faciliten una mejor toma de decisiones en el sector sanitario. Mi objetivo es mejorar la calidad de atención al paciente, optimizando procesos y ofreciendo soluciones más eficaces.
 
 <div align="center">
-  <img src="Imagenes/Read_me/segura.jpg" alt="Alvaro Segura" style="width: 450px;>
+  <img src="Imagenes/Read_me/segura.jpg" style="width: 450px;>
   <br>
 </div>
-<p align="center" style="font-size: 25px;">
-  <strong>Álvaro Segura</strong>
-</p>
+
 
 Me encuentro en 9no ciclo de Ingenieria Biomedica, y me inclino por las ramas de biomecanica y señales e imagenes; sin embargo, tambien tengo conocimientos en ingeniería clínica. Hace unos meses una publicacion mia fue aceptada en la conferencia EMBC IEEE relacionada con Ingenieria Clinica, fue una gran experiencia y espero seguir este camino de investigación. 
 
