@@ -50,6 +50,9 @@ Mi principal motivación para este curso es desarrollar algoritmos automatizados
   <img src="Imagenes/Read_me/segura.jpg" style="width: 350px;">
   <br>
 </div>
+<p align="center" style="font-size: 24px;">
+  <strong>Álvaro Segura</strong>
+</p>
 
 
 Me encuentro en 9no ciclo de Ingenieria Biomedica, y me inclino por las ramas de biomecanica y señales e imagenes; sin embargo, tambien tengo conocimientos en ingeniería clínica. Hace unos meses una publicacion mia fue aceptada en la conferencia EMBC IEEE relacionada con Ingenieria Clinica, fue una gran experiencia y espero seguir este camino de investigación. 
