@@ -32,7 +32,7 @@ En resumen, este curso ofrece una oportunidad emocionante para aquellos interesa
 
 
 <div align="center">
-  <img src="Imagenes/Read_me/huaylinos.jpg" alt="Jose Huaylinos" style="width: 450px;>
+  <img src="Imagenes/Read_me/huaylinos.jpg" style="width: 450px;>
   <br>
 </div>
 <strong style="font-size: 18px;">Descripción de la Imagen</strong>
