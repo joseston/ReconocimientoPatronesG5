@@ -31,9 +31,9 @@ En resumen, este curso ofrece una oportunidad emocionante para aquellos interesa
 
 **José Huaylinos**
 
-<p align="center">
+<div align="center">
   <img src="Imagenes/Read_me/huaylinos.jpg" alt="Jose Huaylinos">
-</p>
+</div>
 
 
 Estudiante de último año en Ingeniería Biomédica, con experiencia laboral en análisis de datos dentro del sector sanitario. Mi enfoque principal ha sido la optimización de procesos, con el objetivo de aumentar la eficiencia en centros de salud.
