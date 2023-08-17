@@ -26,7 +26,12 @@ La motivación para este curso radica en:
 
 En resumen, este curso ofrece una oportunidad emocionante para aquellos interesados en combinar la ciencia de datos con la medicina, y puede tener un impacto significativo en la forma en que se practica la atención médica en el futuro.
 
-Alvaro Segura:
+
+## Miembros :
+
+### José Huaylinos
+
+### Alvaro Segura:
 
 Me encuentro en 9no ciclo de Ingenieria Biomedica, y me inclino por las ramas de biomecanica y señales e imagenes; sin embargo, tambien tengo conocimientos en ingeniería clínica. Hace unos meses una publicacion mia fue aceptada en la conferencia EMBC IEEE relacionada con Ingenieria Clinica, fue una gran experiencia y espero seguir este camino de investigación. 
 
