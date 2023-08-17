@@ -32,7 +32,7 @@ En resumen, este curso ofrece una oportunidad emocionante para aquellos interesa
 
 
 <div align="center">
-  <img src="Imagenes/Read_me/huaylinos.jpg" style="width: 450px;>
+  <img src="Imagenes/Read_me/huaylinos.jpg" style="width: 450px;">
   <br>
 </div>
 
@@ -41,7 +41,7 @@ Estudiante de último año en Ingeniería Biomédica, con experiencia laboral en
 Mi principal motivación para este curso es desarrollar algoritmos automatizados que faciliten una mejor toma de decisiones en el sector sanitario. Mi objetivo es mejorar la calidad de atención al paciente, optimizando procesos y ofreciendo soluciones más eficaces.
 
 <div align="center">
-  <img src="Imagenes/Read_me/segura.jpg" style="width: 450px;>
+  <img src="Imagenes/Read_me/segura.jpg" style="width: 450px;">
   <br>
 </div>
 
