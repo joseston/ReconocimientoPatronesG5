@@ -29,9 +29,9 @@ En resumen, este curso ofrece una oportunidad emocionante para aquellos interesa
 
 ## Miembros :
 
-### José Huaylinos
+**José Huaylinos
 
-### Alvaro Segura:
+**Alvaro Segura:
 
 Me encuentro en 9no ciclo de Ingenieria Biomedica, y me inclino por las ramas de biomecanica y señales e imagenes; sin embargo, tambien tengo conocimientos en ingeniería clínica. Hace unos meses una publicacion mia fue aceptada en la conferencia EMBC IEEE relacionada con Ingenieria Clinica, fue una gran experiencia y espero seguir este camino de investigación. 
 
